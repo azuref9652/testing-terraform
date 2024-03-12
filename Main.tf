@@ -29,7 +29,6 @@ ip_configuration {
     subnet_id                     = azurerm_subnet.testsub.id
     private_ip_address_allocation = "Dynamic"
   }
-
 }
 
 
